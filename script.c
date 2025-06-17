@@ -55,3 +55,4 @@ int main() {
     printf("Fim do programa!\n");   // Mensagem final
 
     return 0;  // Retorno da função main indicando que o programa terminou com sucesso
+}
